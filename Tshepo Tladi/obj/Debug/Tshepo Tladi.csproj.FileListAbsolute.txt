@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\bin\Debug\Tshepo Tladi.exe.config
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\bin\Debug\Tshepo Tladi.exe
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\bin\Debug\Tshepo Tladi.pdb
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo Tladi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo_Tladi.Form1.resources
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo_Tladi.Form2.resources
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo_Tladi.Properties.Resources.resources
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo Tladi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo Tladi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo Tladi.exe
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo Tladi.pdb
+C:\Users\User\Desktop\SMSNG\Tshepo Tladi\obj\Debug\Tshepo_Tladi.Form3.resources
